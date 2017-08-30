@@ -1,0 +1,12 @@
+/* CSS Document */
+/*µÇÂ¼*/
+.headBar .logoBar span{color:#CCCCCC; font-size:22px; margin-left:100px; margin-bottom:20px;}
+/*register*/
+.register{ margin-left:425px; margin-top:20px;width:460px; height:350px; border:#999999 solid 1px; position:relative;}
+.register ul{ position:absolute; top:45px; left:85px;}
+.register ul .register_inf{color:#666666;}
+.register ul li{padding-top:11px;}
+.register ul li .reg_btn{ width:220px; height:33px; background-color:#999999;}
+.register ul li .reg_btn a{font-size:20px; color:#0033FF; padding-left:60px;}
+.free_log{ position:absolute; top:350px; left:300px; }
+.free_log[input type="submit"]{height:30px; width:111px;}
